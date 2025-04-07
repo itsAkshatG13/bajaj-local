@@ -1,0 +1,6 @@
+<svg id="Orders_unselected" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 20 15">
+  <path id="Path_28248" data-name="Path 28248" d="M1.5,0h5A1.5,1.5,0,0,1,8,1.5v2A1.5,1.5,0,0,1,6.5,5h-5A1.5,1.5,0,0,1,0,3.5v-2A1.5,1.5,0,0,1,1.5,0Z" transform="translate(6)" fill="none"/>
+  <path id="Path_28249" data-name="Path 28249" d="M6.5,5h-5A1.5,1.5,0,0,1,0,3.5v-2A1.5,1.5,0,0,1,1.5,0h5A1.5,1.5,0,0,1,8,1.5v2A1.5,1.5,0,0,1,6.5,5Zm-5-4a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h5A.5.5,0,0,0,7,3.5v-2A.5.5,0,0,0,6.5,1Z" transform="translate(6)" fill="#717880"/>
+  <path id="Subtraction_4" data-name="Subtraction 4" d="M16,12.02H4V0H16V12.019Zm-13,0H1.5a1.5,1.5,0,0,1-1.5-1.5V1.5A1.5,1.5,0,0,1,1.5,0H3V12.019Zm15.5,0H17V0h1.5A1.5,1.5,0,0,1,20,1.5v9.015A1.5,1.5,0,0,1,18.5,12.02Z" transform="translate(0 2.98)" fill="#717880"/>
+  <path id="Subtraction_5" data-name="Subtraction 5" d="M18.5,12.02H17v-1h1.5a.5.5,0,0,0,.5-.5V1.5a.5.5,0,0,0-.5-.5H17V0h1.5A1.5,1.5,0,0,1,20,1.5v9.015A1.5,1.5,0,0,1,18.5,12.02Zm-2.5,0H4v-1H16v1Zm-13,0H1.5a1.5,1.5,0,0,1-1.5-1.5V1.5A1.5,1.5,0,0,1,1.5,0H3V1H1.5a.5.5,0,0,0-.5.5v9.015a.5.5,0,0,0,.5.5H3v1ZM16,1H4V0H16V1Z" transform="translate(0 2.98)" fill="#717880"/>
+</svg>

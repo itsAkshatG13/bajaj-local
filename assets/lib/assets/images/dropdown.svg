@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-dropdown">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="dropdown" clip-path="url(#clip-dropdown)">
+    <path id="Path_299" data-name="Path 299" d="M2741,4447l4,4,4-4" transform="translate(-2732.5 -4436.501)" fill="none" stroke="#ff6700" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

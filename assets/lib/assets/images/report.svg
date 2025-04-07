@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-report">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="report" clip-path="url(#clip-report)">
+    <g id="Group_17978" data-name="Group 17978" transform="translate(-110 -245)">
+      <g id="profit-report" transform="translate(52 249)">
+        <g id="Group_17926" data-name="Group 17926" transform="translate(64 0)">
+          <g id="Group_17925" data-name="Group 17925">
+            <path id="Path_32513" data-name="Path 32513" d="M75.961,4.308a.5.5,0,0,0-.108-.162l-4-4A.507.507,0,0,0,71.5,0H65a1,1,0,0,0-1,1V15a1,1,0,0,0,1,1H75a1,1,0,0,0,1-1V4.5A.5.5,0,0,0,75.961,4.308ZM72,1.707,74.293,4H72ZM75,15H65V1h6V4a1,1,0,0,0,1,1h3Z" transform="translate(-64 0)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17928" data-name="Group 17928" transform="translate(67 10)">
+          <g id="Group_17927" data-name="Group 17927">
+            <path id="Path_32514" data-name="Path 32514" d="M160.5,320a.5.5,0,0,0-.5.5v3a.5.5,0,0,0,1,0v-3A.5.5,0,0,0,160.5,320Z" transform="translate(-159 -320)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17930" data-name="Group 17930" transform="translate(72 6)">
+          <g id="Group_17929" data-name="Group 17929">
+            <path id="Path_32515" data-name="Path 32515" d="M320.5,194a.5.5,0,0,0-.5.5v5a.5.5,0,0,0,1,0v-5A.5.5,0,0,0,320.5,194Z" transform="translate(-321 -192)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_3423" data-name="Rectangle 3423" width="24" height="24" transform="translate(110 245)" fill="none"/>
+    </g>
+  </g>
+</svg>

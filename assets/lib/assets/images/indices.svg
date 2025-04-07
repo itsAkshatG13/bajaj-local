@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-add_1">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="add_1" data-name="add – 1" clip-path="url(#clip-add_1)">
+    <g id="Group_15029" data-name="Group 15029" transform="translate(8474 -7928.709)">
+      <g id="Group_15030" data-name="Group 15030">
+        <line id="Line_661" data-name="Line 661" y2="4" transform="translate(-8468.5 7945.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.7"/>
+        <line id="Line_662" data-name="Line 662" y2="7" transform="translate(-8464.5 7942.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.7"/>
+        <line id="Line_663" data-name="Line 663" y2="5" transform="translate(-8459.5 7944.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.7"/>
+        <line id="Line_664" data-name="Line 664" y2="8" transform="translate(-8455.5 7941.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.7"/>
+      </g>
+      <g id="Solid" transform="translate(-8575.998 7861.099)">
+        <path id="Path_32484" data-name="Path 32484" d="M24.824,59.005a.823.823,0,0,0,.584-.242l4.644-4.644,1.893,1.893a.825.825,0,0,0,1.167,0l5.194-5.194v1.859a.825.825,0,0,0,1.651,0V48.825A.825.825,0,0,0,39.131,48H35.279a.825.825,0,1,0,0,1.651h1.859l-4.611,4.611-1.893-1.893a.825.825,0,0,0-1.167,0L24.24,57.6a.825.825,0,0,0,.584,1.409Z" transform="translate(82 23.611)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

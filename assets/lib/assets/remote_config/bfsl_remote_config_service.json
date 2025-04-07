@@ -1,0 +1,583 @@
+{
+  "Android": {
+    "2fa": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "tradingView": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "feedbackAndRating": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "toolsAndCalculator": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "positionPnLFix": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "referAndEarn": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "watchlistGridView": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "telegramBanner": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "basketOrder": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    }
+  },
+  "IOS": {
+    "2fa": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "tradingView": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "feedbackAndRating": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "toolsAndCalculator": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "positionPnLFix": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "referAndEarn": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    },
+    "watchlistGridView": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "telegramBanner": {
+      "appVersion": "1.2.45",
+      "isEnable": true
+    },
+    "basketOrder": {
+      "appVersion": "1.2.45",
+      "isEnable": false
+    }
+  },
+  "DashboardBanner": [
+    {
+      "app_img_url": "https://www.google.co.in",
+      "web_img_url": "https://www.google.co.in",
+      "isEnable": false,
+      "redirectionType": "internal",
+      "redirectionUrl": "https://www.google.co.in",
+      "bannerType": "IPO"
+    },
+    {
+      "app_img_url": "https://www.google.co.in",
+      "web_img_url": "https://www.google.co.in",
+      "isEnable": false,
+      "redirectionType": "internal",
+      "redirectionUrl": "",
+      "bannerType": "NCD"
+    }
+  ],
+  "NewLaunches": [
+    {
+      "app_img_url_light": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/reports_banner.png?alt=media&token=555e04e0-59ee-4e28-b685-d478b5e235b1",
+      "web_img_url_light": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/reports_banner.png?alt=media&token=555e04e0-59ee-4e28-b685-d478b5e235b1",
+      "app_img_url_dark": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/reports_banner_dm.png?alt=media&token=210fc12a-96b2-48fa-a7b0-acbf10d91877",
+      "web_img_url_dark": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/reports_banner_dm.png?alt=media&token=210fc12a-96b2-48fa-a7b0-acbf10d91877",
+      "isEnable": true,
+      "redirectionType": "internal",
+      "redirectionUrl": "https://telegram.me/bajajfinservsecurities",
+      "bannerType": "Results"
+    },
+    {
+      "app_img_url_light": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/screener_banner.png?alt=media&token=44e37d2b-3b45-4f84-9d86-a66c49d3de00",
+      "web_img_url_light": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/screener_banner.png?alt=media&token=44e37d2b-3b45-4f84-9d86-a66c49d3de00",
+      "app_img_url_dark": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/screener_banner_dm.png?alt=media&token=0e92424d-0a9c-4bd7-b55a-6baf3fa69d73",
+      "web_img_url_dark": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/screener_banner_dm.png?alt=media&token=0e92424d-0a9c-4bd7-b55a-6baf3fa69d73",
+      "isEnable": true,
+      "redirectionType": "internal",
+      "redirectionUrl": "",
+      "bannerType": "Screener"
+    }
+  ],
+  "DashboardFullScreenPopUp": [
+    {
+      "app_img_url": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/Indiabulls%20Housing%20Finance%20Limited%20NCD%20-%20push%20notification2%20final%20mobile.png?alt=media&token=4dbe6ef0-3487-4238-b743-2bc8be925241",
+      "web_img_url": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/Indiabulls%20Housing%20Finance%20Limited%20NCD%20-%20push%20notification2%20final%20mobile.png?alt=media&token=4dbe6ef0-3487-4238-b743-2bc8be925241",
+      "isEnable": false,
+      "redirectionType": "external",
+      "redirectionUrl": "http://google.com",
+      "bannerType": "ADHAAR"
+    },
+    {
+      "app_img_url": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/Indiabulls%20Housing%20Finance%20Limited%20NCD%20-%20push%20notification2%20final%20mobile.png?alt=media&token=4dbe6ef0-3487-4238-b743-2bc8be925241",
+      "web_img_url": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/Indiabulls%20Housing%20Finance%20Limited%20NCD%20-%20push%20notification2%20final%20mobile.png?alt=media&token=4dbe6ef0-3487-4238-b743-2bc8be925241",
+      "isEnable": false,
+      "redirectionType": "external",
+      "redirectionUrl": "http://google.com",
+      "bannerType": "ENOMINEE"
+    }
+  ],
+  "referAndEarnTnC": "https://firebasestorage.googleapis.com/v0/b/bajaj-securities-uat.appspot.com/o/index.html?alt=media&token=8943b4c4-17cf-4850-a6c1-30929e834d4f",
+  "SmartInvestment": {
+    "SGB": 0,
+    "IPO": 0,
+    "NCD": 0
+  },
+  "isBannerViaApi": true,
+  "isNewSplashScreen": false,
+  "isProfileV2Enabled": true,
+  "isBasketOrderEnabled": true,
+  "showNetBankingForMS": false,
+  "isWatchlistSwipeAllow": false,
+  "isChartV2": false,
+  "newWebView": false,
+  "isLocalSearchAllow": false,
+  "gustUserStreamDelayTimer": 10,
+  "ssoCheckDuration": 2,
+  "searchFilePath": "https://scripmasterinfo.s3.ap-south-1.amazonaws.com/ScripMaster/SearchMaster.gz",
+  "indicesData": [
+    {
+      "symbol": "NIFTY",
+      "token": 26000,
+      "msiltoken": -1,
+      "hasFutOpt": true,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "FINNIFTY",
+      "token": 26037,
+      "msiltoken": -22,
+      "hasFutOpt": true,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "SENSEX",
+      "token": 1,
+      "msiltoken": -6,
+      "hasFutOpt": true,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "India VIX",
+      "token": 26039,
+      "msiltoken": -93,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Auto",
+      "token": 26045,
+      "msiltoken": -17,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "BANKNIFTY",
+      "token": 26009,
+      "msiltoken": -21,
+      "hasFutOpt": true,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty CPSE",
+      "token": 26050,
+      "msiltoken": -29,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Energy",
+      "token": 26052,
+      "msiltoken": -15,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "SNSX50",
+      "token": 47,
+      "msiltoken": -63,
+      "hasFutOpt": true,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "Nifty Infra",
+      "token": 26067,
+      "msiltoken": -5,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty IT",
+      "token": 26068,
+      "msiltoken": -2,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Media",
+      "token": 26071,
+      "msiltoken": -27,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Metal",
+      "token": 26072,
+      "msiltoken": -18,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Midcap 50",
+      "token": 26079,
+      "msiltoken": -4,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty MNC",
+      "token": 26081,
+      "msiltoken": -8,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Next 50",
+      "token": 26082,
+      "msiltoken": -12,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Pharma",
+      "token": 26084,
+      "msiltoken": -20,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty PSE",
+      "token": 26085,
+      "msiltoken": -3,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty PSU Bank",
+      "token": 26086,
+      "msiltoken": -28,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Pvt Bank",
+      "token": 26087,
+      "msiltoken": -23,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Realty",
+      "token": 26088,
+      "msiltoken": -30,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty100 Liq 15",
+      "token": 26096,
+      "msiltoken": -14,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "BSE CG",
+      "token": 7,
+      "msiltoken": -68,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSE CD",
+      "token": 8,
+      "msiltoken": -80,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "TECK",
+      "token": 11,
+      "msiltoken": -78,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BANKEX",
+      "token": 12,
+      "msiltoken": -74,
+      "hasFutOpt": true,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "AUTO",
+      "token": 13,
+      "msiltoken": -70,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "METAL",
+      "token": 14,
+      "msiltoken": -82,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "OILGAS",
+      "token": 15,
+      "msiltoken": -81,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "REALTY",
+      "token": 21,
+      "msiltoken": -83,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "POWER",
+      "token": 22,
+      "msiltoken": -64,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEIPO",
+      "token": 23,
+      "msiltoken": -67,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "GREENX",
+      "token": 25,
+      "msiltoken": -62,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "SMEIPO",
+      "token": 27,
+      "msiltoken": -43,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "INFRA",
+      "token": 28,
+      "msiltoken": -48,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEFMC",
+      "token": 32,
+      "msiltoken": -65,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSE IT",
+      "token": 34,
+      "msiltoken": -33,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "MFG",
+      "token": 35,
+      "msiltoken": -73,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "ENERGY",
+      "token": 39,
+      "msiltoken": -47,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "MIDSEL",
+      "token": 43,
+      "msiltoken": -72,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "TELCOM",
+      "token": 45,
+      "msiltoken": -79,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "UTILS",
+      "token": 46,
+      "msiltoken": -42,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "SNXT50",
+      "token": 48,
+      "msiltoken": -59,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BHRT22",
+      "token": 49,
+      "msiltoken": -75,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEEVI",
+      "token": 60,
+      "msiltoken": -60,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSELVI",
+      "token": 61,
+      "msiltoken": -69,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEMOI",
+      "token": 62,
+      "msiltoken": -49,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEQUI",
+      "token": 63,
+      "msiltoken": -54,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "DFRGRI",
+      "token": 64,
+      "msiltoken": -45,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "BSEPBI",
+      "token": 66,
+      "msiltoken": -76,
+      "hasFutOpt": false,
+      "exc": "BSE"
+    },
+    {
+      "symbol": "Nifty FMCG",
+      "token": 26055,
+      "msiltoken": -31,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Commodities",
+      "token": 26047,
+      "msiltoken": -9,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Consumption",
+      "token": 26049,
+      "msiltoken": -16,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Div Opps 50",
+      "token": 26051,
+      "msiltoken": -24,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty GrowSect 15",
+      "token": 26056,
+      "msiltoken": -25,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty Serv Sector",
+      "token": 26089,
+      "msiltoken": -13,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "Nifty50 Value 20",
+      "token": 26107,
+      "msiltoken": -26,
+      "hasFutOpt": false,
+      "exc": "NSE"
+    },
+    {
+      "symbol": "USDINR",
+      "token": 1,
+      "msiltoken": 1,
+      "hasFutOpt": true,
+      "exc": "CDS"
+    },
+    {
+      "symbol": "JPYINR",
+      "token": 27,
+      "msiltoken": 27,
+      "hasFutOpt": true,
+      "exc": "CDS"
+    },
+    {
+      "symbol": "GBPINR",
+      "token": 26,
+      "msiltoken": 26,
+      "hasFutOpt": true,
+      "exc": "CDS"
+    },
+    {
+      "symbol": "EURINR",
+      "token": 25,
+      "msiltoken": 25,
+      "hasFutOpt": true,
+      "exc": "CDS"
+    }
+  ]
+}

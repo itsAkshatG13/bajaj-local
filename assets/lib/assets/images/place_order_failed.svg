@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-failed">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="failed" clip-path="url(#clip-failed)">
+    <g id="Component_22_2" data-name="Component 22 – 2" transform="translate(5 5)">
+      <circle id="Ellipse_88" data-name="Ellipse 88" cx="43" cy="43" r="43" fill="#fef2f0"/>
+      <circle id="Ellipse_89" data-name="Ellipse 89" cx="32.5" cy="32.5" r="32.5" transform="translate(11 11)" fill="#eb0014"/>
+      <g id="close_1_" data-name="close(1)" transform="translate(33 33)">
+        <g id="Group_583" data-name="Group 583" transform="translate(0 0)">
+          <g id="Group_582" data-name="Group 582">
+            <path id="Path_1601" data-name="Path 1601" d="M.258.258A.88.88,0,0,1,1.5.258L21.537,20.292a.88.88,0,1,1-1.245,1.245L.258,1.5A.88.88,0,0,1,.258.258Z" transform="translate(0 0)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Group_585" data-name="Group 585" transform="translate(0 0)">
+          <g id="Group_584" data-name="Group 584">
+            <path id="Path_1602" data-name="Path 1602" d="M.258,20.293,20.292.259A.88.88,0,0,1,21.537,1.5L1.5,21.538A.88.88,0,1,1,.258,20.293Z" transform="translate(0 -0.001)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

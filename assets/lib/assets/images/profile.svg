@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-iPhone_12_12_Pro_1">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_12_Pro_1" data-name="iPhone 12, 12 Pro – 1" clip-path="url(#clip-iPhone_12_12_Pro_1)">
+    <g id="Group_18001" data-name="Group 18001" transform="translate(-7 -50)">
+      <circle id="Ellipse_579" data-name="Ellipse 579" cx="27" cy="27" r="27" transform="translate(10 53)" fill="#0660AB"/>
+      <path id="Path_32548" data-name="Path 32548" d="M140.018,335.266a13.69,13.69,0,0,0-13.675,13.675c0,.436.021.868.062,1.293a27.069,27.069,0,0,0,27.226,0c.04-.426.062-.857.062-1.293A13.69,13.69,0,0,0,140.018,335.266Zm0,0" transform="translate(-103.018 -247.906)" fill="#EAEBEC"/>
+      <path id="Path_32549" data-name="Path 32549" d="M191.772,151.054a8.585,8.585,0,1,0-8.585,8.585A8.595,8.595,0,0,0,191.772,151.054Zm0,0" transform="translate(-146.187 -75.443)" fill="#EAEBEC"/>
+    </g>
+  </g>
+</svg>

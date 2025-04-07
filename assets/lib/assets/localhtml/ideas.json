@@ -1,0 +1,42 @@
+[
+  {
+    "idea": "BondsIndia",
+    "link": "https://uatclient.bondsindia.com/",
+    "isActive": true,
+    "key": "bondsindia"
+  },
+  {
+    "idea": "Vested",
+    "link": "https://uat-ws.bajajfinservsecurities.in/tradingmall/vas-service/vested/GetVestedPage",
+    "isActive": true,
+    "key": "usinvest"
+
+  },
+  {
+    "idea": "Top Investment Basket",
+    "link": "https://uat-ws.bajajfinservsecurities.in/tradingmall/vas-service/Pickright/InitiatePickrightPage",
+    "isActive": false,
+    "key": "pickright"
+
+  },
+  {
+    "idea": "Online Market Place of Bonds",
+    "link": "https://uat-ws.bajajfinservsecurities.in/tradingmall/vas-service/GoldenPi/InitiateGoldenpi",
+    "isActive": false,
+    "key": "goldenpi"
+
+  }, {
+  "idea": "Pro-Investor",
+  "link": "https://bajajfinsec.marketsmithindia.com/mstool/modelportfolio.jsp",
+  "isActive": false,
+  "key": "longTerm"
+
+}, {
+  "idea": "Super Swing Trader",
+  "link": "https://brokers.swingtraderindia.com/#/currentTrades",
+  "isActive": false,
+  "key": "shrtTerm"
+
+}
+
+]

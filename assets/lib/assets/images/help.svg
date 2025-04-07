@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-help">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="help" clip-path="url(#clip-help)">
+    <g id="Group_17998" data-name="Group 17998" transform="translate(-110 -529)">
+      <g id="information_1_" data-name="information (1)" transform="translate(114 533)">
+        <g id="Group_17940" data-name="Group 17940">
+          <g id="Group_17939" data-name="Group 17939">
+            <g id="Group_17991" data-name="Group 17991" transform="translate(0.5 -0.016)">
+              <circle id="Ellipse_577" data-name="Ellipse 577" cx="0.781" cy="0.781" r="0.781" transform="translate(7.219 11.047)" fill="#fff"/>
+              <path id="Path_32536" data-name="Path 32536" d="M178.5,128.5A2.5,2.5,0,0,0,176,131a.625.625,0,0,0,1.25,0,1.25,1.25,0,1,1,1.25,1.25.625.625,0,0,0-.625.625v1.563a.625.625,0,0,0,1.25,0v-1.017a2.5,2.5,0,0,0-.625-4.921Z" transform="translate(-170.5 -124.484)" fill="#fff"/>
+            </g>
+            <g id="Ellipse_578" data-name="Ellipse 578" fill="none" stroke="#fff" stroke-width="1">
+              <circle cx="8" cy="8" r="8" stroke="none"/>
+              <circle cx="8" cy="8" r="7.5" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_3429" data-name="Rectangle 3429" width="24" height="24" transform="translate(110 529)" fill="none"/>
+    </g>
+  </g>
+</svg>

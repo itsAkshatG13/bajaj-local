@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-time">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="time" clip-path="url(#clip-time)">
+    <g id="wall-clock" transform="translate(7 7)">
+      <g id="Group_9215" data-name="Group 9215">
+        <g id="Group_9214" data-name="Group 9214">
+          <path id="Path_29068" data-name="Path 29068" d="M5.407,0a5.407,5.407,0,1,0,5.407,5.407A5.413,5.413,0,0,0,5.407,0Zm0,10.025a4.618,4.618,0,1,1,4.618-4.618A4.623,4.623,0,0,1,5.407,10.025Z" fill="#aeb2b7"/>
+        </g>
+      </g>
+      <g id="Group_9217" data-name="Group 9217" transform="translate(4.749 2.644)">
+        <g id="Group_9216" data-name="Group 9216">
+          <path id="Path_29069" data-name="Path 29069" d="M227.357,127.96h-1.71v-2.368a.395.395,0,1,0-.789,0v2.763a.4.4,0,0,0,.395.395h2.105a.395.395,0,0,0,0-.789Z" transform="translate(-224.857 -125.197)" fill="#aeb2b7"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

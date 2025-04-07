@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="frontend_mobile">
+  <!-- <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://cdn.moengage.com 'unsafe-inline' 'wasm-unsafe-eval';"> -->
+
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="ic_launcher.png" />
+
+  <title>frontend_mobile</title>
+  <link rel="manifest" href="manifest.json">
+  <!-- <script src="https://cdn.moengage.com/release/dc_3/versions/5/moe_webSdk.min.latest.js"></script> -->
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #splash {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #ffffff;
+      /* Adjust background color */
+    }
+
+    #splash img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      /* Ensures the image covers the screen */
+    }
+  </style>
+
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    const serviceWorkerVersion = "3740539817";
+  </script>
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
+  <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js"
+    defer></script>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+</head>
+
+<body>
+  <!-- <script src="./nativesplash.js"></script> -->
+  <script>
+    // if ('serviceWorker' in navigator) {
+    //   window.addEventListener('flutter-first-frame', function () {
+    //     navigator.serviceWorker.register('flutter_service_worker.js?v=3740539817');
+    //   });
+    // }
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('serviceworker.js', { scope: '/' })
+        .then(reg => console.log('MoEngage SW registered:', reg.scope))
+        .catch(err => console.error('MoEngage SW registration failed:', err));
+    }
+  </script>
+
+  <script type="text/javascript">
+    var moeDataCenter = "dc_3"; // Replace "DC" with the actual Data center value from the above table 
+    var moeWorkspaceID = "HQ8BFGBM7RC3AOEVOKDNZYD2"; // Replace "<YOUR_WORKSPACE_ID>" available in the settings page of MoEngage Dashboard.
+    var sdkVersion = "2";
+    !function (e, n, i, t, a, r, o, d) { if (!moeDataCenter || "{DC}" === moeDataCenter) return console.error("Data center has not been passed correctly. Please follow the SDK installation instruction carefully."); var s = e[a] = e[a] || []; if (s.invoked = 0, s.initialised > 0 || s.invoked > 0) return console.error("MoEngage Web SDK initialised multiple times. Please integrate the Web SDK only once!"), !1; e.moengage_object = a; var l = {}, g = function n(i) { return function () { for (var n = arguments.length, t = Array(n), a = 0; a < n; a++)t[a] = arguments[a]; (e.moengage_q = e.moengage_q || []).push({ f: i, a: t }) } }, u = ["track_event", "add_user_attribute", "add_first_name", "add_last_name", "add_email", "add_mobile", "add_user_name", "add_gender", "add_birthday", "destroy_session", "add_unique_user_id", "update_unique_user_id", "moe_events", "call_web_push", "track", "location_type_attribute"], m = { onsite: ["getData", "registerCallback"] }; for (var c in u) l[u[c]] = g(u[c]); for (var v in m) for (var f in m[v]) null == l[v] && (l[v] = {}), l[v][m[v][f]] = g(v + "." + m[v][f]); r = n.createElement(i), o = n.getElementsByTagName("head")[0], r.async = 1, r.src = t, o.appendChild(r), e.moe = e.moe || function () { return (s.invoked = s.invoked + 1, s.invoked > 1) ? (console.error("MoEngage Web SDK initialised multiple times. Please integrate the Web SDK only once!"), !1) : (d = arguments.length <= 0 ? void 0 : arguments[0], l) }, r.addEventListener("load", function () { if (d) return e[a] = e.moe(d), e[a].initialised = e[a].initialised + 1 || 1, !0 }), r.addEventListener("error", function () { return console.error("Moengage Web SDK loading failed."), !1 }) }(window, document, "script", "https://cdn.moengage.com/release/" + moeDataCenter + "/versions/" + sdkVersion + "/moe_webSdk.min.latest.js", "Moengage");
+    Moengage = moe({
+      app_id: moeWorkspaceID,
+      debug_logs: 0
+    });
+
+    navigator.serviceWorker.getRegistrations().then(registrations => {
+      registrations.forEach(reg => console.log('Registered SW:', reg.scope));
+    });
+  </script>
+
+
+  <script>
+    window.addEventListener('load', function (ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        // serviceWorker: {
+        //   serviceWorkerVersion: serviceWorkerVersion,
+        // },
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine().then(function (appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
+  <script>
+    function deleteSplash() {
+      console.log("deleting splash!!!");
+      const splash = document.getElementById('splash');
+      if (splash) splash.remove();
+    }
+    window.addEventListener('flutter-first-frame', deleteSplash);
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+  <div id="splash">
+    <img aria-hidden="true" src="./splash_init_screen.png" alt="" />
+  </div>
+</body>
+
+</html>

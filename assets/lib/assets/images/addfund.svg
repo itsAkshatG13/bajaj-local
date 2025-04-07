@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="addfund" transform="translate(0 0)">
+    <path id="Subtraction_10" data-name="Subtraction 10" d="M10,20A10,10,0,1,1,20,10a9.705,9.705,0,0,1-1.252,4.842A10.1,10.1,0,0,1,10,20ZM5.625,9.167a.833.833,0,1,0,0,1.667H9.167v3.541a.833.833,0,0,0,1.667,0V10.833h3.542a.833.833,0,1,0,0-1.667H10.833V5.625a.833.833,0,1,0-1.667,0V9.167Z" transform="translate(0 0)" fill="#3977de"/>
+  </g>
+</svg>

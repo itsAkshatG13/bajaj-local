@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-ipo">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="ipo" clip-path="url(#clip-ipo)">
+    <g id="Group_17984" data-name="Group 17984" transform="translate(5 3)">
+      <path id="Path_32543" data-name="Path 32543" d="M59.964,9.388,58.705,6.438l1.259-2.951a.444.444,0,0,0-.05-.437.51.51,0,0,0-.414-.206H53.667V1.75a.485.485,0,0,0-.5-.469H47V.469a.5.5,0,0,0-1,0V15.531a.5.5,0,0,0,1,0V8.469h4V9.563a.486.486,0,0,0,.5.469h8a.51.51,0,0,0,.414-.206A.444.444,0,0,0,59.964,9.388Zm-7.3-1.857H47V2.219h5.667Zm.04,1.563.813-.762A.46.46,0,0,0,53.667,8V3.781h5.095L57.7,6.263a.442.442,0,0,0,0,.348l1.059,2.482Z" transform="translate(-46 1)" fill="#fff"/>
+      <rect id="Rectangle_3426" data-name="Rectangle 3426" width="24" height="24" transform="translate(-5 -3)" fill="none"/>
+    </g>
+  </g>
+</svg>
