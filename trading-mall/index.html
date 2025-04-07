@@ -67,11 +67,11 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "478895290";
+    const serviceWorkerVersion = "3965242215";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
-  <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js"
+  <script type="application/javascript" src="/tradingmall/assets/packages/flutter_inappwebview_web/assets/web/web_support.js"
     defer></script>
   <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 </head>
@@ -81,11 +81,11 @@
   <script>
     // if ('serviceWorker' in navigator) {
     //   window.addEventListener('flutter-first-frame', function () {
-    //     navigator.serviceWorker.register('flutter_service_worker.js?v=478895290');
+    //     navigator.serviceWorker.register('flutter_service_worker.js?v=3965242215');
     //   });
     // }
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('serviceworker.js', { scope: '/' })
+      navigator.serviceWorker.register('serviceworker.js', { scope: '/tradingmall/' })
         .then(reg => console.log('MoEngage SW registered:', reg.scope))
         .catch(err => console.error('MoEngage SW registration failed:', err));
     }
